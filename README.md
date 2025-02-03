@@ -7,4 +7,5 @@ This repository contains all the tasks given by [Prodigy Infotech](https://prodi
 | 1   | [Caffene](/PRODIGY_WD_01/README.md)     | PRODIGY_WD_01 |                                                       | Responsive Landing page                |
 | 2   | [Hour Glass](/PRODIGY_WD_02/README.md)  | PRODIGY_WD_02 | [Demo](https://hourglass.tilak-thapa.com.np/)         | stopwatch that also measures laps.     |
 | 3   | [Tic Tac Toe](/PRODIGY_WD_03/README.md) | PRODIGY_WD_03 | [Demo](https://prodigy-internship-task-3.vercel.app/) | Offline two player game                |
-| 4   | [Portfolio](/PRODIGY_WD_04/README.md) | PRODIGY_WD_04 |                                                         | Portfolio website showing about myself |
+| 4   | [Portfolio](/PRODIGY_WD_04/README.md)   | PRODIGY_WD_04 |                                                       | Portfolio website showing about myself |
+| 5   | [Weather App](/PRODIGY_WD_05/Weather App/README.md).|PRODIGY_WD_05|                                             | A Weather App                          |
